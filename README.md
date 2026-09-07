@@ -35,12 +35,13 @@
 
   ### 📊 GitHub 统计
 
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=zjh-04&show_icons=true&theme=radical&hide_border=true"
-  height="160" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zjh-04&layout=compact&theme=radical&hide_bo
-  rder=true" height="160" />
-  </p>
+ <p align="center">
+    <img src="https://img.shields.io/badge/北京大学-信息与计算科学-8B0000?style=flat-square&logo=google-scholar&logoColo
+  r=white" />
+    <img src="https://img.shields.io/badge/方向-智能-AI-3B82F6?style=flat-square" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+ </p>
 
   ---
 
